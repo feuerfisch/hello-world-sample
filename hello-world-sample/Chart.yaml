@@ -1,0 +1,7 @@
+apiVersion: v1
+name: hello-world-sample
+icon: https://github.com/feuerfisch/spring-petclinic-helm/blob/master/spring-petclinic/catalogIcon-myservice.png
+description: A Helm chart for the hello world sample
+version: 0.1.0
+appVersion: "1.0"
+home: https://github.com/feuerfisch/hello-world-sample-helm.git

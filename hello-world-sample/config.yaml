@@ -1,0 +1,5 @@
+name: hello-world-sample
+description: |
+  Demo application.
+version: v1.0
+category: webapp
